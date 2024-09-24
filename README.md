@@ -1,24 +1,8 @@
-# appvue
+# Projeto Inicial em Vue
 
-## Project setup
-```
-npm install
-```
+Projeto básico apenas com configurações iniciais do Vue.
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+### Configuração utilizada
 
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+- Node.js v20.10.0
+- npm 10.2.3
