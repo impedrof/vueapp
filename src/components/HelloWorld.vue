@@ -1,10 +1,10 @@
 <template>
   <div class="hello">
-    <h1>{{ msg }}</h1>
+    <!-- <h1>{{ msg }}</h1>
     <div>
       <span v-if="autor != null">{{ autor }}</span>
       <span>{{ teste }}</span>
-    </div>
+    </div> -->
   </div>
 </template>
 
